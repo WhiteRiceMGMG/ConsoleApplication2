@@ -124,7 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="ConsoleApplication2.cpp" />
-    <ClCompile Include="FileName1.cpp" />
+    <None Include="FileName1.cpp" />
     <ClCompile Include="FileName2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
