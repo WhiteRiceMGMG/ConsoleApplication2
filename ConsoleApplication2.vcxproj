@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileName3.cpp" />
     <None Include="ConsoleApplication2.cpp" />
     <None Include="FileName1.cpp" />
     <ClCompile Include="FileName2.cpp" />
